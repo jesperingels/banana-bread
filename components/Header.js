@@ -25,6 +25,25 @@ export default function Header() {
       <Link href="/blog">
         <a style={linkStyle}>Blog</a>
       </Link>
+      <style jsx>
+        {`
+          nav {
+                grid-column: 1/3;
+                padding: 0px 0px 25px 0px;
+          }
+
+          a {
+            text-transform: uppercase;
+            text-decoration: none;
+            color: black;
+          }
+
+          a:hover {
+            box-shadow: 0 2px 0 #B04248;
+            transition: 0.5s;
+          }
+        `}
+      </style>
     </nav>
   )
 }
