@@ -1,7 +1,19 @@
+import Header from '../components/Header'
+import Main from '../components/Main'
+
 const Index = () => (
     <div>
-      <p>Hello Next.js</p>
+      <div className="container">
+        <Header/>
+        <Main title="Hello world!"></Main>
+      </div>
+      <style jsx>{`
+      .container { 
+        
+      }
+    `}</style>
     </div>
+
   );
   
   export default Index;
