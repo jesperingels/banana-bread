@@ -9,12 +9,10 @@ const Index = () => (
         <Header/>
         <Main            
            src='/img/bananaBread.jpg' 
-           text='I’ve received a lot of questions about freezing banana bread since I published the recipe, so let me share what works. You can freeze banana bread using these instructions to preserve its fresh flavor and texture for months!
-           Cool baked banana bread completely.
-            Tightly wrap the loaf or slices (individually or grouped) in 2-3 layers of plastic wrap or aluminum foil.
-            Place wrapped banana bread in a large freezer-friendly storage bag or reusable container.
-            Date the bag and freeze for up to 3-4 months. Thaw wrapped or unwrapped in the refrigerator or at room temperature. All methods work like a charm!
-            I like to freeze banana bread in slices because the slices thaw much quicker– even by lunchtime!'
+           text='The Banana originated in Southeast Asia (probably on the Malaysian archipelago) and spread from India, to the Philippines, New Guinea etc. It was cultivated by about 2,000 B.C., but these people were rice eaters, and wheat was unknown there, so breads were not part of their culture.
+
+           Theophrastus (a Greek naturalist philosopher) around the 4th century B.C., in what is probably the first scientific book on botany, describes the banana plant.  We know that the Greeks made bread with honey, spices and fruits around the time of Pliny (23-79 A.D.), and we also know that Pliny had knowledge of the banana (he also described them in 77 A.D.)  So, could the Greeks have made any banana bread?
+           A possibility, they made bread and had bananas.'
             title="About Banana bread"
             subtitle1="Prep"
             subtext1="10 mins"

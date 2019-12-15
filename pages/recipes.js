@@ -9,12 +9,13 @@ const Index = () => (
         <Header/>
         <Main            
            src='/img/bananaBread.jpg' 
-           text='I’ve received a lot of questions about freezing banana bread since I published the recipe, so let me share what works. You can freeze banana bread using these instructions to preserve its fresh flavor and texture for months!
-           Cool baked banana bread completely.
-            Tightly wrap the loaf or slices (individually or grouped) in 2-3 layers of plastic wrap or aluminum foil.
-            Place wrapped banana bread in a large freezer-friendly storage bag or reusable container.
-            Date the bag and freeze for up to 3-4 months. Thaw wrapped or unwrapped in the refrigerator or at room temperature. All methods work like a charm!
-            I like to freeze banana bread in slices because the slices thaw much quicker– even by lunchtime!'
+           text='For the banana bread: Position an oven rack in the bottom third of the oven and preheat to 325 degrees F. Generously spray a 9-by-5-inch loaf pan with nonstick spray and dust with flour.
+
+           For the cheesecake swirl: Combine the cream cheese, granulated sugar, sour cream and egg in a large bowl and beat with a hand mixer until well combined; set aside.
+           
+           For the banana bread: Whisk together the flour, baking soda and salt in a medium bowl; set aside. Mash the granulated sugar and bananas in a large bowl to a paste. Whisk in the oil, vanilla and egg. Whisk in the flour mixture until just combined.
+           
+           Reserve 3/4 cup of the bread batter. Spread the remaining batter in the bottom of the prepared loaf pan. Spoon the cream cheese mixture over the batter and put the reserved 3/4 cup batter in a line down the center of the pan. Insert the tip of a paring knife into the batter and drag it through and up to swirl 5 to 6 times.'
             title="How to make banana bread"
             subtitle1="Prep"
             subtext1="10 mins"

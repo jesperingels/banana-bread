@@ -1,14 +1,19 @@
+// Import Components
 import Header from '../components/Header'
 import Main from '../components/Main'
 
 const Index = () => (
     <div>
       <div className="container">
+
         {/* Used for CSS checkbox hack */}
         <input id="checkbox" type="checkbox"></input>
         <div id="menu-button"></div>
+
+        {/* Use components */}
         <Header/>
-        <Main            
+        <Main  
+          // Fill the component with content
            src='/img/4527-3-large.jpg' 
            text='I’ve received a lot of questions about freezing banana bread since I published the recipe, so let me share what works. You can freeze banana bread using these instructions to preserve its fresh flavor and texture for months!
            Cool baked banana bread completely.
@@ -30,6 +35,8 @@ const Index = () => (
         
         />
       </div>
+
+      {/* Add global styling */}
       <style jsx global>{`
       @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap');
 

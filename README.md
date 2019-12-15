@@ -3,12 +3,12 @@
 Welcome to my first Next.js project! This is a very small project just for myself to learn how to work with
 Next.js
 
-# Install
+## Install
 
 `
 npm install --save react react-dom next
 `
-# Run the website local
+## Run the website local
 `
 npm run dev
 `
