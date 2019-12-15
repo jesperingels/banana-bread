@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 const linkStyle = {
-  marginRight: 15
+  marginRight: 25
 }
 
 export default function Header() {
@@ -42,6 +42,21 @@ export default function Header() {
             box-shadow: 0 2px 0 #B04248;
             transition: 0.5s;
           }
+
+        @media screen and (max-width:576px) {
+          nav {
+            display: none;
+            position: absolute;
+            background-color: grey;
+            height: 300px;
+            z-index: 100;
+            width: 95%;
+            align-items: center;
+            justify-content: space-evenly;
+            flex-direction: column;
+          }
+        } 
+
         `}
       </style>
     </nav>
