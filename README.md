@@ -8,7 +8,7 @@ Next.js
 `
 npm install --save react react-dom next
 `
-## Run the website local
+## Run the website locally
 `
 npm run dev
 `
