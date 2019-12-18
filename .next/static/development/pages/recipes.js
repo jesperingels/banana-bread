@@ -9701,7 +9701,7 @@ var Index = function Index() {
 
 /***/ }),
 
-/***/ 3:
+/***/ 2:
 /*!***************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Frecipes&absolutePagePath=%2FUsers%2Fjesperingels%2FDocuments%2Fvs-code%2Frepositories%2Fbanana-bread%2Fbanana-bread%2Fpages%2Frecipes.js ***!
   \***************************************************************************************************************************************************************************************/
@@ -9724,5 +9724,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=recipes.js.map
